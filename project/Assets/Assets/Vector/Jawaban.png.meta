@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 6109c1b624a0fc74e9af19f655897048
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8558757826139917702
+    second: Jawaban_0
+  - first:
+      213: -6232037033816528336
+    second: Jawaban_1
+  - first:
+      213: -7664856166218403234
+    second: Jawaban_2
+  - first:
+      213: -1090493412099649666
+    second: Jawaban_3
+  - first:
+      213: -4821338215417651895
+    second: Jawaban_4
+  - first:
+      213: 7423705007056095602
+    second: Jawaban_5
+  - first:
+      213: -2365493851623997065
+    second: Jawaban_6
+  - first:
+      213: -4949162803024542284
+    second: Jawaban_7
+  - first:
+      213: 657871543106875139
+    second: Jawaban_8
+  - first:
+      213: -338569622308459294
+    second: Jawaban_9
+  - first:
+      213: -2581554715758557380
+    second: Jawaban_10
+  - first:
+      213: -287773702189312780
+    second: Jawaban_11
+  - first:
+      213: -402657407349534289
+    second: Jawaban_12
+  - first:
+      213: -750093468854150403
+    second: Jawaban_13
+  - first:
+      213: -7733169238660579116
+    second: Jawaban_14
+  - first:
+      213: 8966165720173184546
+    second: Jawaban_15
+  - first:
+      213: 5699197338056505681
+    second: Jawaban_16
+  - first:
+      213: 577263088744024585
+    second: Jawaban_17
+  - first:
+      213: -5697040981450851823
+    second: Jawaban_18
+  - first:
+      213: -5359501518364339518
+    second: Jawaban_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jawaban_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3110
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f5567a1f293980800000000000000
+      internalID: -8558757826139917702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3110
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a6944265b5389a0800000000000000
+      internalID: -6232037033816528336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_2
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 3110
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f61e4de5f0a590800000000000000
+      internalID: -7664856166218403234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_3
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 3110
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f85e5f40acdd0f0800000000000000
+      internalID: -1090493412099649666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2424
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd308007a271db0800000000000000
+      internalID: -4821338215417651895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2424
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790ed61f5c460760800000000000000
+      internalID: 7423705007056095602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_6
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2424
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c497ffd31c2fd0800000000000000
+      internalID: -2365493851623997065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_7
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 2424
+        width: 665
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5452607aa015bb0800000000000000
+      internalID: -4949162803024542284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1737
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f29b2deaa312900800000000000000
+      internalID: 657871543106875139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1737
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece09ae8b82d4bf0800000000000000
+      internalID: -338569622308459294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_10
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1737
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370af6e9a97c2cd0800000000000000
+      internalID: -2581554715758557380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_11
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1737
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49e41b75f910cf0800000000000000
+      internalID: -287773702189312780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1035
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa150cca839796af0800000000000000
+      internalID: -402657407349534289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_13
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1035
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9b98d6f12795f0800000000000000
+      internalID: -750093468854150403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_14
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1035
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d088adac834ea490800000000000000
+      internalID: -7733169238660579116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_15
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1035
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226053cb7383e6c70800000000000000
+      internalID: 8966165720173184546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 296
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b5b788cd971f40800000000000000
+      internalID: 5699197338056505681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 296
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a488288b9d20800800000000000000
+      internalID: 577263088744024585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_18
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 296
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a77cd596b00f0b0800000000000000
+      internalID: -5697040981450851823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jawaban_19
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 296
+        width: 665
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21ab0d3c93f95b0800000000000000
+      internalID: -5359501518364339518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

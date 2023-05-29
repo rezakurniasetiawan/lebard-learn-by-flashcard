@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mulai.unity
+    guid: b7f921a7233cf784eadc92d3c000b696
+  - enabled: 1
+    path: Assets/Scenes/LetsPlay.unity
+    guid: a9404e9e5ac6674459ab6ba365d36b21
+  - enabled: 1
+    path: Assets/Scenes/TentangApp.unity
+    guid: 777ce48d3e880394a86ebc16005407db
+  - enabled: 1
+    path: Assets/Scenes/Capaian.unity
+    guid: 04d5a6af2f698c14f8adc86953507168
+  - enabled: 1
+    path: Assets/Scenes/Panduan.unity
+    guid: fe8945d4f72062f40b3198f04aebec36
+  - enabled: 1
+    path: Assets/Scenes/TujuanPembelajaran.unity
+    guid: 11b6a573ee8b67547b7ea2f608ae89a8
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level1.unity
+    guid: 0ee3e93e13e9bd742b8bcb687e268c73
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level2.unity
+    guid: 4004ad1fdd23bdf49a8098a476ebd091
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level3.unity
+    guid: ef12666076a27cb4d8791c3b1173f239
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level4.unity
+    guid: cc8c6b957bdc9724fb6bfc7fe2a10f08
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level5.unity
+    guid: b37d9bcb7b4715d41914dfd8f822e016
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level6.unity
+    guid: c086a220be6549b47acdfca7513c963b
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level7.unity
+    guid: 3bbd10fda36c2814a8b8001ebe4964a2
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level8.unity
+    guid: ae26690f119250f449f5bf9b8a439ba3
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level9.unity
+    guid: 81ac2e16e3734fd4aa7db2319af0ef6c
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level10.unity
+    guid: 39183e16f70454e4ea1bb74c61c58186
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level11.unity
+    guid: d117d30c3c1aecc499665db7ede42bd3
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level12.unity
+    guid: 3cd563f57b3309d4c80fbc456c217e40
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level13.unity
+    guid: 7f6924e804a641645911790a5e843e9f
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level14.unity
+    guid: 33e5ff3fee7846948bb2620ea1b1438b
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level15.unity
+    guid: dcac8d877f3ddc4458b615c145706c72
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level16.unity
+    guid: bf5bdb6556c33b94b9fa175530053196
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level17.unity
+    guid: 014fb5b299edf5c4e949aa918bc946d9
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level18.unity
+    guid: 77c922db186d8dc4da24a06ba06d8669
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level19.unity
+    guid: d6ae454ffefc82342ae22a0da335fc5c
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel/level20.unity
+    guid: 808be2e633864064e91beb4be2fc1949
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel1.unity
+    guid: 13a6ad702c2d0f7448af8df45be874e4
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel2.unity
+    guid: 5e66aa7f2e1ce9244ae8aaaac94165de
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel3.unity
+    guid: da2af38c4ca234f4aace6c67a0b617ac
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel4.unity
+    guid: 4b6a720a796f3924a9b7bbcc58d3231f
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel5.unity
+    guid: 62396cadd63f18146878c47ffdf1aee5
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel6.unity
+    guid: d076a65456f00214f8d2e901c2d50dc0
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel7.unity
+    guid: 5d5a3f211a91de44596d765c8898e431
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel8.unity
+    guid: 5691fbae7e0a7544ebd9853abda75213
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel9.unity
+    guid: e48ccf776ddd7294c81b09643716507f
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel10.unity
+    guid: ff6600a7de508bd4d8069f2cea2ec221
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel11.unity
+    guid: eab5f548314c36b44a93a3403c135e93
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel12.unity
+    guid: e8a9c315ac5344f45a6f2a87ade1a6ba
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel13.unity
+    guid: 24a46f605e5c339419651145f2da6178
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel14.unity
+    guid: e832dc1203e7a1945a2c1be232037f4b
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel15.unity
+    guid: 7c6b63302bf95d7498b5724c5665cbcb
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel16.unity
+    guid: 9407226ce8c3b074e95672ff0a970b02
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel17.unity
+    guid: bba255b09bc87f94c87d597767974acf
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel18.unity
+    guid: 339f8be5ef7d11c45901295fc476cc66
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel19.unity
+    guid: 4d80e16dedd2fc0488a70983d3228ba6
+  - enabled: 1
+    path: Assets/Scenes/SoalLevel/SoalLevel20.unity
+    guid: c19cab9559f2d31489388e9a4a32e3a0
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw1.unity
+    guid: a93c5f1a49c1eb44d81ccb817ee43811
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw2.unity
+    guid: ea3c4e5a786699443953b22edf285875
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw3.unity
+    guid: c1b193e5e21638b42a2cd044e13a8377
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw4.unity
+    guid: a81fe5388595d4f4b9d2ab6991c14051
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw5.unity
+    guid: 1711acb7f8998974babf5e81fcbbf191
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw6.unity
+    guid: b75b66f33ede80043969f71680f5651c
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw7.unity
+    guid: 84794476238e75c4294c44c28fbead63
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw8.unity
+    guid: 51e46f02e57d7184c8999cbe7b7533bd
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw9.unity
+    guid: ddffb225c09449b4e90952150fd0d5e7
+  - enabled: 1
+    path: Assets/Scenes/Draw/Draw10.unity
+    guid: a2ac74622e0e0fa44b537d3051fa04b8
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag1.unity
+    guid: 69ac6cceb23c23a4194f3719aa9290d3
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag2.unity
+    guid: e5fc221ea16e8364b84acc159e4660f4
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag3.unity
+    guid: c0cfad60549c99d47a84d3fbce2a740f
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag4.unity
+    guid: acf46989090cdf4478b2b5b50a5eaff5
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag5.unity
+    guid: e79ed20c63b83b14fba677c10a25002b
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag6.unity
+    guid: 0a0c1c76c47764c40a4aa638b269aed0
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag7.unity
+    guid: dc0c603d2c48511459bd2ee573a3b1da
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag8.unity
+    guid: b6ceac5ccd9eaa148a2936aeff4d8430
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag9.unity
+    guid: 2ec39a6306d0c4d47905d35b8aa98d86
+  - enabled: 1
+    path: Assets/Scenes/Drag/Drag10.unity
+    guid: 1f6ebe48f4498bb4583595515841b715
+  m_configObjects: {}
